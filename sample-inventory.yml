@@ -1,7 +1,9 @@
 ---
-p1:
-  quantity: 100
-p2:
+watch:
+  quantity: 10
+mobile:
   quantity: 20
-p3:
+perfume:
   quantity: 30
+shoe:
+  quantity: 40
